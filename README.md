@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin: teaglebuilt](https://img.shields.io/badge/-teaglebuilt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teaglebuilt/)](https://www.linkedin.com/teaglebuilt/)
-[![GitHub teaglebuilt](https://img.shields.io/github/followers/seeker1911?label=follow&style=social)](https://github.com/teaglebuilt)
+[![GitHub teaglebuilt](https://img.shields.io/github/followers/teaglebuilt?style=plastic)](https://github.com/teaglebuilt)
 
 
 
