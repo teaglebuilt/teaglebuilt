@@ -3,13 +3,11 @@
 
 
 
-<span><img src="https://ßcamo.githubusercontent.com/20cffd2088b2895f833a332310e9a6596589205b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e"></span>
-<span><img src="https://camo.githubusercontent.com/f727a434e8503e5143f5e7afb2d0c5425ddc91e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572"></span>
-<span><img src="https://camo.githubusercontent.com/6055483be4c5c57fa7b5831c2313f7fce2eff523/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456c61737469635365617263682d3030353537313f7374796c653d666c61742d737175617265266c6f676f3d656c6173746963736561726368"></span>
-<span><img src="https://camo.githubusercontent.com/e84deddfd8c2c12a7d28911e3c70c569658ff6c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"></span>
-<span><img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"></span>
-<span><img src="https://camo.githubusercontent.com/aeb3c6037ff10d02e76bffb837b78817b0993a6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773">
-</span>
+<span><img height="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"></span>
+<span><img height="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg"></span>
+<span><img height="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg"></span>
+<span><img height="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg"></span>
+
 
 ![teaglebuilt's Stats](https://github-readme-stats.vercel.app/api?username=teaglebuilt&show_icons=true)
 
