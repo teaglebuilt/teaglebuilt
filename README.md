@@ -1,9 +1,6 @@
 ### Whats Up 👋
 
-<p align="center" align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/teaglebuilt/"><img style="height: 26px;" src="https://img.shields.io/badge/-teaglebuilt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teaglebuilt/" /></a>&nbsp;&nbsp;&nbsp;
-</p>
+
 
 
 <span><img src="https://ßcamo.githubusercontent.com/20cffd2088b2895f833a332310e9a6596589205b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e"></span>
