@@ -11,4 +11,6 @@
 
 ![teaglebuilt's Stats](https://github-readme-stats.vercel.app/api?username=teaglebuilt&show_icons=true)
 
+<img align="left" alt="teaglebuilt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaglebuilt&layout=compact" />
+
 
