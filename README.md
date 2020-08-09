@@ -5,11 +5,7 @@
 
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/e555dc0c821efea169496cac5c1e94908c2c941b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3362326535613f7374796c653d706c6173746963266c6f676f3d7265616374"></code>
 
 
 ![teaglebuilt's Stats](https://github-readme-stats.vercel.app/api?username=teaglebuilt&show_icons=true)
