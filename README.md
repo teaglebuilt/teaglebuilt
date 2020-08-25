@@ -6,10 +6,14 @@
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/kubernetes.png"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/docker.png"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/helm.png"></span>
+<span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/prometheus.webp"></span>
+<span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/elastic.png"></span>
+<span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/ansible.png"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/react.png"></span>
+<span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/javascript.jpg"></span>
 
 
 <div align="center">
