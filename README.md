@@ -15,7 +15,7 @@
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/react.png"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/javascript.jpg"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/nextjs.svg"></span>
-<span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/gatsby.png"></span>
+<span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/gatsbyjs.png"></span>
 
 <div align="center">
 <img alt="teaglebuilt's Stats" src="https://github-readme-stats.vercel.app/api?username=teaglebuilt&show_icons=true" />
