@@ -1,6 +1,7 @@
 ### Whats Up 👋
 
-
+*  :computer:  my development setup - [***dotfiles***](https://github.com/teaglebuilt/dotfiles)
+ 
 <span><img height="30px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/golang.png"></span>
 <span><img height="30px" src="https://raw.githubusercontent.com/teaglebuilt/teaglebuilt/master/static/kubernetes.png"></span>
