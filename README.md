@@ -6,14 +6,12 @@
     <p class="intro">My best friend is a rubber duck</p>
 </div>
 
-
-
-![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/teaglebuilt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
-
-
+<div align="center">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/teaglebuilt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    <img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white">
+</div>
 
 
 <div align="center">
