@@ -1,22 +1,8 @@
 
-<style>
-.avatar {
- width: 50%;
- border-radius: 50%;
- verticle-align: middle;
-}
-
-.intro {
-    font-size: 16px;
-    padding: 10px;
-    font-family: sans-serif;
-    font-style: italic;
-}
-</style>
 
 <div align="center">
     <h1>Dillan Teagle</h1>
-    <img src="./images/profile_avatar.webp" class="avatar">
+    <img src="./images/profile_avatar.webp" styles="width: 50%;border-radius: 50%;">
     <p class="intro">My best friend is a rubber duck</p>
 </div>
 
