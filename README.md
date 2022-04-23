@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1>Dillan Teagle</h1>
-    <img src="./images/profile_avatar.webp" styles="width:50%;border-radius: 50%;">
+    <img src="./images/meolder.png">
     <p class="intro">My best friend is a rubber duck</p>
 </div>
 
