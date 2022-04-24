@@ -52,7 +52,7 @@
     </li>
     <li>
         <p>
-        <span>:home:</span>
+        <span>:house:</span>
             <strong>
                 <a href="https://github.com/teaglebuilt/homelab">Homelab</a>
             </strong>
