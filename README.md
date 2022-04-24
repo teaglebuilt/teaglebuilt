@@ -41,6 +41,24 @@
             - Automated provisioning of all my nerdy tools and shortcuts that make up my environment.
         </p>
     </li>
+    <li>
+        <p>
+        <span>:home:</span>
+            <strong>
+                <a href="https://github.com/teaglebuilt/homelab">Homelab</a>
+            </strong>
+            - fully provisioned home technology. Collection of home modules that includes gitops kubernetes cluster, dns management, home assistant, smart device management, and the security lab.
+        </p>
+    </li>
+    <li>
+        <p>
+        <span>:home:</span>
+            <strong>
+                <a href="https://github.com/teaglebuilt/homelab">Homelab</a>
+            </strong>
+            - fully provisioned home technology. Collection of home modules that includes gitops kubernetes cluster, dns management, home assistant, smart device management, and the security lab.
+        </p>
+    </li>
     </ul>
 </div>
 <!--START_SECTION:waka-->
