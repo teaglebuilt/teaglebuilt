@@ -29,13 +29,16 @@
     <img src="./icons/openstack.svg" height="30px">
 </div>
 
-<div align="center">
-    <h2>Reasons that i am alive</h2>
+<div>
+    <h2 align="center">Reasons that i am alive</h2>
     <ul>
     <li>
         <p>
         <span>:computer:</span>
-        <a href="https://github.com/teaglebuilt/dotfiles">dotfiles</a>
+            <strong>
+                <a href="https://github.com/teaglebuilt/dotfiles">dotfiles</a>
+            </strong>
+            - Automated provisioning of all my nerdy tools and shortcuts that make up my environment.
         </p>
     </li>
     </ul>
