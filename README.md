@@ -30,7 +30,8 @@
 </div>
 
 <div>
-    <h2 align="center">Reasons that i am alive</h2>
+    <h2 align="center">Why do I do what I do?</h2>
+    <br/>
     <ul>
     <li>
         <p>
