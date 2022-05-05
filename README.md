@@ -22,16 +22,23 @@
     <img src="./icons/docker.svg" height="30px">
     <img src="./icons/kubernetes.svg" height="30px">
     <img src="./icons/proxmox.png" height="30px">
+    <img src="./icons/ubiquiti.svg" height="30px">
     <img src="./icons/aws.svg" height="30px">
+    <img src="./icons/azure-functions.png" height="30px">
     <img src="./icons/ansible.svg" height="30px">
     <img src="./icons/terraform.svg" height="30px">
     <img src="./icons/redis.svg" height="30px">
+    <img src="./icons/mongodb.svg" height="30px">
     <img src="./icons/openstack.svg" height="30px">
+    <img src="./icons/lua.png" height="30px">
+    <img src="./icons/ipfs.png" height="30px">
+    <img src="./icons/webrtc.png" height="30px">
 </div>
 
 <div>
     <h2 align="center">Why do I do what I do?</h2>
     <br/>
+    <h3 align="center"><a href="https://teaglebuilt.tech">My Website</a>
     <ul>
     <li>
         <p>
@@ -51,7 +58,19 @@
             - fully provisioned home technology. Collection of home modules that includes gitops kubernetes cluster, dns management, home assistant, smart device management, and the security lab.
         </p>
     </li>
+    <li>
+        <p>
+        <span>:earth_americas:</span>
+            <strong>
+                <a href="https://github.com/teaglebuilt/web3">Web 3</a>
+            </strong>
+            - ...loading
+    </li>
     </ul>
 </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+**Trophies** :trophy:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=teaglebuilt)](https://github.com/ryo-ma/github-profile-trophy)
