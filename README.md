@@ -18,6 +18,9 @@
     <img src="./icons/python.svg" height="30px">
     <img src="./icons/golang.svg" height="30px">
     <img src="./icons/javascript.svg" height="30px">
+    <img src="./icons/react.png" height="30px">
+    <img src="./icons/next.png" height="30px">
+    <img src="./icons/nestjs.png" height="30px">
     <img src="./icons/webpack.svg" height="30px">
     <img src="./icons/docker.svg" height="30px">
     <img src="./icons/kubernetes.svg" height="30px">
@@ -33,12 +36,14 @@
     <img src="./icons/lua.png" height="30px">
     <img src="./icons/ipfs.png" height="30px">
     <img src="./icons/webrtc.png" height="30px">
+    <img src="./icons/solidity.png" height="30px">
 </div>
 
 <div>
     <h2 align="center">Why do I do what I do?</h2>
     <br/>
     <h3 align="center"><a href="https://teaglebuilt.tech">My Website</a>
+    </h3>
     <ul>
     <li>
         <p>
