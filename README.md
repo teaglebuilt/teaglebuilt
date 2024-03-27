@@ -4,15 +4,21 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img src="https://img.shields.io/badge/teaglebuilt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    <a href="https://www.linkedin.com/in/teaglebuilt" target="#">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://twitter.com/teaglebuilt" target="#">
+        <img src="https://img.shields.io/badge/teaglebuilt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+    <a href="https://dev.to/teaglebuilt" target="#">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
     <img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white">
 </div>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,python,golang,typescript,bash,git,nix,lua,webassembly,react,nest" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,linux,python,golang,typescript,bash,git,nix,lua,webassembly,react,nest,ansible,terraform,elasticsearch&perline=9" />
   </a>
 </p>
 
