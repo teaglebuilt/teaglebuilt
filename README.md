@@ -1,31 +1,25 @@
-<div align="center">
-    <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
-      <!-- Define a radial gradient -->
+
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
           <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0" />
           <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0.75" />
         </radialGradient>
         
-        <!-- Define a shadow filter -->
         <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
           <feDropShadow dx="5" dy="5" stdDeviation="5" flood-color="black" />
         </filter>
       </defs>
-  
-      <!-- Use the gradient as a background -->
+
       <rect width="100%" height="100%" fill="url(#grad1)" />
       
-      <!-- Define an image with a shadow filter -->
       <image href="https://github.com/teaglebuilt/teaglebuilt/raw/master/images/teaglebuilt.png" x="50" y="50" width="400" height="400"                   filter="url(#shadow)" />
   
-      <!-- Define some animated text -->
       <text x="50%" y="475" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="30" font-family="Arial" stroke="black"               stroke-width="1">
         <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
         TeagleBuilt
       </text>
-  </svg>
-</div>
+</svg>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/teaglebuilt" target="#">
